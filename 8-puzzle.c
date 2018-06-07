@@ -7,10 +7,10 @@
 #include <algorithm>
 
 /*
-*	Autor: Jian Macedo Furquim 161152063
+*	Autor: Jian Macedo Furquim
 *	Contato: jian_mf@hotmail.com
 *	Descrição: 8-puzzle usando busca em profundidade e busca em largura
-*   Compilar: g++ -std=c++11 8-puzzle.c -o main
+*   	Compilar: g++ -std=c++11 8-puzzle.c -o main
 */
 
 using namespace std;
